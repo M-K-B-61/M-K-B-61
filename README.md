@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Fullstack-Developer-0A66C2?style=flat" />
+  <img src="https://img.shields.io/badge/Fullstack-Developer-black?style=flat" />
   <img src="https://img.shields.io/badge/Maker-Builder-black?style=flat" />
    - M. Kıvanç Bulut -
-  <img src="https://img.shields.io/badge/System-Architecture-333?style=flat" />
-  <img src="https://img.shields.io/badge/Product-Driven-555?style=flat" />
+  <img src="https://img.shields.io/badge/System-Architecture-black?style=flat" />
+  <img src="https://img.shields.io/badge/Product-Driven-black?style=flat" />
 </h1>
 <p align="center">
   <b>Fullstack Developer & Maker</b>  
