@@ -69,7 +69,7 @@ I’m a **fullstack developer and maker**, focused on
 
 <p align="center">
   <a href="./READMETR.md">
-    <img src="https://img.shields.io/badge/Türkçe%20Versiyon-README-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Türkçe%20Versiyon-README-red?style=for-the-badge" />
   </a>
 </p>
 
