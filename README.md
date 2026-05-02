@@ -59,9 +59,17 @@ I’m a **fullstack developer and maker**, focused on
 - I use **automation and system design to simplify processes**  
 - Beyond code → I think about **architecture and user experience**  
 - **Working product > perfect but unfinished idea**
-
 ---
 
 <p align="center">
   <i>“Build. Observe. Improve. Repeat. Because great systems are the ones that continuously evolve.” — M. Kıvanç Bulut</i>
 </p>
+
+---
+
+<p align="center">
+  <a href="./READMETR.md">
+    <img src="https://img.shields.io/badge/Türkçe%20Versiyon-README-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
