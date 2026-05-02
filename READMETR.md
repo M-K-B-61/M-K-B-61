@@ -64,6 +64,4 @@ Küçük ama faydalı araçlardan oluşan bir koleksiyon.
 
 ---
 
-<p align="center">
-  <i>“İnşa et. Kır. Geliştir. Tekrar et.”</i>
-</p>
+<p align="center"> <i>“İnşa et. Gözlemle. İyileştir. Tekrar et. Çünkü iyi sistemler, sürekli evrilenlerdir.” — M. Kıvanç Bulut</i> </p>
